@@ -1,3 +1,5 @@
+For more check this video.
+https://www.youtube.com/watch?v=ogrx8G8pClQ&ab_channel=Abhishek.Veeramalla
 # django-todo
 A simple todo app built with django
 
